@@ -17,4 +17,4 @@ Incluye técnicas de:
 
 ## Cómo ejecutar en Google Colab
 Haz clic en el siguiente botón para abrir el código directamente:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MateoOnate27/Computational-Vision-Laboratories-/blob/main/Computanional_Vision_Lab#2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MateoOnate27/Computational-Vision-Laboratories-/blob/main/Computanional_Vision_Lab_2.ipynb)
